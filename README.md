@@ -21,5 +21,6 @@ The script requires three inputs
 
 ## Sample Command
 
+```shell
 nohup python -u Error_Decoding_Detection.py edgelist.txt 10 Random
-
+```
